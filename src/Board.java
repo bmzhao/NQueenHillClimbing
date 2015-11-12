@@ -7,20 +7,22 @@ import java.util.Random;
  * Created by brianzhao on 10/17/15.
  */
 
-public class Board {
+public class Board implements Comparable<Board>{
 
     /**
      * dimension must be 2 or higher
      */
     private final int dimension;    //this is the size of rows/columns
     private final Random rand = new Random();
-    private Integer evaluationCost;
+    private Integer attackingQueens;
+    //for genetic algorithm; each index is column, the value is the row of the queen at the column
+    private final ArrayList<Integer> boardState;
 
 
     /**
      * arraylist will be of queen objects
      * if a position in the arraylist is null, that means no queen exists
-     * if it is not null, then a queen exists in tha position of the arraylist
+     * if it is not null, then a private statif final int queen exists in tha position of the arraylist
      */
     private Queen[][] underlying; //this is the underlying arraylist
 
@@ -35,7 +37,28 @@ public class Board {
     public Board(int dimension) {
         this.dimension = dimension;
         generateBoardAndMapOneQueenPerColumn(dimension);
+        boardState = createBoardState(this.columnToQueens);
     }
+
+    /**
+     * mainly used for genetic algo
+     * @param boardState
+     */
+    public Board(ArrayList<Integer> boardState) {
+        this.dimension = boardState.size();
+        columnToQueens = new HashMap<>();
+        underlying = new Queen[dimension][dimension];
+        this.boardState = new ArrayList<>();
+        for (int i = 0; i < boardState.size(); i++) {
+            int row = boardState.get(i);
+            int column = i;
+            Queen toInsert = new Queen(new Position(row, column, dimension));
+            columnToQueens.put(column, toInsert);
+            underlying[row][column] = toInsert;
+            this.boardState.add(column);
+        }
+    }
+
 
     private Board(Board board, Move action) {
         this.dimension = board.dimension;
@@ -70,8 +93,22 @@ public class Board {
         underlying[endPosition.getRowNumber()][endPosition.getColumnNumber()] = toPlace;
 
         columnToQueens.put(startPosition.getColumnNumber(), toPlace);
+
+        //create boardstate for genetic algorithm
+        boardState = createBoardState(this.columnToQueens);
     }
 
+    private ArrayList<Integer> createBoardState(HashMap<Integer,Queen> columnToQueens) {
+        ArrayList<Integer> toReturn = new ArrayList<>();
+        for (Integer integer : columnToQueens.keySet()) {
+            toReturn.add(columnToQueens.get(integer).getPosition().getRowNumber());
+        }
+        return toReturn;
+    }
+
+    public int getDimension() {
+        return dimension;
+    }
 
     /**
      * will fill the board and hashmap, only allowing one queen per column
@@ -93,7 +130,6 @@ public class Board {
         this.columnToQueens = toSetHashMap;
     }
 
-
     @Override
     public String toString() {
         StringBuilder toReturn = new StringBuilder();
@@ -108,10 +144,17 @@ public class Board {
 
 
     public int getHeuristicAttackingQueens() {
-        if (evaluationCost == null) {
-            evaluationCost = calculateNumberOfAttackingPairsOfQueens();
+        if (attackingQueens == null) {
+            attackingQueens = calculateNumberOfAttackingPairsOfQueens();
         }
-        return evaluationCost;
+        return attackingQueens;
+    }
+
+    public int getHeuristicNonAttackingQueens() {
+        if (attackingQueens == null) {
+            attackingQueens = calculateNumberOfAttackingPairsOfQueens();
+        }
+        return ((dimension * dimension - 1) / 2) - attackingQueens;
     }
 
     /**
@@ -189,6 +232,9 @@ public class Board {
         return children.get(rand.nextInt(children.size()));
     }
 
+    public ArrayList<Integer> getBoardState() {
+        return boardState;
+    }
 
     private static ArrayList<ArrayList<Integer>> gridCloner(ArrayList<ArrayList<Integer>> input) {
         ArrayList<ArrayList<Integer>> toReturn = new ArrayList<>();
@@ -198,5 +244,11 @@ public class Board {
         return toReturn;
     }
 
-
+    /**
+     * ascending order
+     */
+    @Override
+    public int compareTo(Board o) {
+        return this.getHeuristicNonAttackingQueens() - o.getHeuristicNonAttackingQueens();
+    }
 }
