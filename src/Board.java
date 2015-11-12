@@ -184,54 +184,16 @@ public class Board {
         return minChildren.get(randPosition);
     }
 
-
-//    public ArrayList<Board> generateChildren() {
-//        Tuple zeroPosition = getZeroPosition();
-//        ArrayList<Board> children = new ArrayList<>();
-//
-//        Tuple leftSwap = zeroPosition.add(new Tuple(0, -1, dimension));
-//        if (leftSwap.isValid()) {
-//            children.add(generateChildBoard(performSwap(zeroPosition, leftSwap), BoardAction.LeftSwap));
-//        }
-//
-//        Tuple rightSwap = zeroPosition.add(new Tuple(0, 1, dimension));
-//        if (rightSwap.isValid()) {
-//            children.add(generateChildBoard(performSwap(zeroPosition, rightSwap), BoardAction.RightSwap));
-//        }
-//
-//        Tuple downSwap = zeroPosition.add(new Tuple(1, 0, dimension));
-//        if (downSwap.isValid()) {
-//            children.add(generateChildBoard(performSwap(zeroPosition, downSwap), BoardAction.DownSwap));
-//        }
-//
-//        Tuple topSwap = zeroPosition.add(new Tuple(-1, 0, dimension));
-//        if (topSwap.isValid()) {
-//            children.add(generateChildBoard(performSwap(zeroPosition, topSwap), BoardAction.TopSwap));
-//        }
-//        return children;
-//    }
-//
-//
-//    //deep copies underyling, performs the enumerated action on the copy and returns it
-//    private ArrayList<ArrayList<Integer>> performSwap(Tuple startCoord, Tuple endCoord) {
-//        ArrayList<ArrayList<Integer>> toReturn = gridCloner(underlying);
-//        int start = toReturn.get(startCoord.rowNumber).get(startCoord.columnNumber);
-//        int end = toReturn.get(endCoord.rowNumber).get(endCoord.columnNumber);
-//
-//        //set start to end
-//        toReturn.get(startCoord.rowNumber).set(startCoord.columnNumber, end);
-//        //set end to start
-//        toReturn.get(endCoord.rowNumber).set(endCoord.columnNumber, start);
-//        return toReturn;
-//    }
-//
-//
-//    //uses shallow copy
-//    private Board generateChildBoard(ArrayList<ArrayList<Integer>> input, BoardAction parentAction) {
-//        return new Board(dimension, input, this, cost + 1, heuristicDelegate.calculateHeuristic(input), parentAction, heuristicDelegate);
-//    }
-//
-//
+    public Board getRandomChild() {
+        ArrayList<Board> children = getChildren();
+        Board min = children.get(0);
+        for (Board child : children) {
+            if (child.getHeuristicAttackingQueens() < min.getHeuristicAttackingQueens()) {
+                min = child;
+            }
+        }
+        return children.get(rand.nextInt(children.size()));
+    }
 
 
     private static ArrayList<ArrayList<Integer>> gridCloner(ArrayList<ArrayList<Integer>> input) {
