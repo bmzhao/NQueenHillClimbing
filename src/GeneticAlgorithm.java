@@ -12,7 +12,7 @@ public class GeneticAlgorithm {
     private static final double PROBABILITY_OF_MUTATION_OF_EACH_POSITION = 0.01; //for each position
 
     public static void main(String[] args) {
-        geneticAlgorithm(POPULATION_FOR_GENETIC_ALGORITHM, PROPORTION_OF_POPULATION_TO_MATE, PROBABILITY_OF_MUTATION_OF_EACH_POSITION, 8);
+        geneticAlgorithm(POPULATION_FOR_GENETIC_ALGORITHM, PROPORTION_OF_POPULATION_TO_MATE, PROBABILITY_OF_MUTATION_OF_EACH_POSITION, 17);
     }
 
     public static void geneticAlgorithm(int initialPopulation, double proportionOfPopToMate, Double mutationProbability, int dimensionOfBoard) {
@@ -76,9 +76,9 @@ public class GeneticAlgorithm {
                     return;
                 }
                 System.out.println("Child 1: " + twins[0].getHeuristicAttackingQueens());
-                System.out.println(twins[0]);
+//                System.out.println(twins[0]);
                 System.out.println("Child 2: " + twins[1].getHeuristicAttackingQueens());
-                System.out.println(twins[1]);
+//                System.out.println(twins[1]);
 
                 children.add(twins[0]);
                 children.add(twins[1]);
