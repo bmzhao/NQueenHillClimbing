@@ -6,12 +6,12 @@ import java.util.*;
 public class GeneticAlgorithm {
 
     //gene algo
-    private static final int POPULATION_FOR_GENETIC_ALGORITHM = 10000;
+    private static final int POPULATION_FOR_GENETIC_ALGORITHM = 1000;
     private static final double PROPORTION_OF_POPULATION_TO_MATE = .1;
     private static final double PROBABILITY_OF_MUTATION_OF_EACH_POSITION = 0.01; //for each position
 
     public static void main(String[] args) {
-        geneticAlgorithm(POPULATION_FOR_GENETIC_ALGORITHM, PROPORTION_OF_POPULATION_TO_MATE, PROBABILITY_OF_MUTATION_OF_EACH_POSITION, 8);
+        geneticAlgorithm(POPULATION_FOR_GENETIC_ALGORITHM, PROPORTION_OF_POPULATION_TO_MATE, PROBABILITY_OF_MUTATION_OF_EACH_POSITION, 17);
     }
 
     public static void geneticAlgorithm(int initialPopulation, double proportionOfPopToMate, Double mutationProbability, int dimensionOfBoard) {
