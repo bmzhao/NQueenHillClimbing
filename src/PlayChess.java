@@ -4,13 +4,13 @@ import java.util.Random;
  * Created by brianzhao on 11/11/15.
  */
 public class PlayChess {
-    private static final int NUM_TEST_CASES = 100;
+    private static final int NUM_TEST_CASES = 1000;
     private static final int LIMIT_FOR_SIMULATED_ANNEALING = 200;
     private static final Random rand = new Random();
 
     public static void main(String[] args) {
-        simulatedAnnealing(8,LIMIT_FOR_SIMULATED_ANNEALING);
-//        steepestHillClimbingNoSideWaysMove(8);
+//        simulatedAnnealing(17,LIMIT_FOR_SIMULATED_ANNEALING);
+        steepestHillClimbingNoSideWaysMove(17);
 //        steepestHillClimbingWithSidewaysMove(8);
 //        steepestHillClimbingWithSidewaysMove(2);
 
@@ -124,9 +124,11 @@ public class PlayChess {
          k = the steepness of the curve.
 
          */
-        double L = 300;
-        double k = 0.02;
-        return L / (1 + Math.exp(k * x));
+//        double L = 300;
+////        double k = 0.02;
+//        double k = 3;
+//        return L / (1 + Math.exp(k * x));
+        return 300 * Math.pow(0.5, x);
     }
 
     public static void simulatedAnnealing(int dimensionOfBoard, int limitingNumberOfSteps) {
@@ -141,11 +143,10 @@ public class PlayChess {
             int currentTime = 0;
 
             while (!done) {
-                System.out.println(board.getHeuristicAttackingQueens());
+//                System.out.println(board.getHeuristicAttackingQueens());
                 if (board.getHeuristicAttackingQueens() == 0 || currentTime == limitingNumberOfSteps) {
                     long endTime = System.currentTimeMillis();
                     millisecondsTaken += (endTime - startTime);
-                    successCount++;
                     done = true;
                     break;
                 }
@@ -164,6 +165,7 @@ public class PlayChess {
                 }
             }
             if (board.getHeuristicAttackingQueens() == 0) {
+                successCount++;
                 System.out.println("Correctly solved the problem with the following solution: ");
                 System.out.println(board.toString());
             } else {

@@ -186,12 +186,6 @@ public class Board {
 
     public Board getRandomChild() {
         ArrayList<Board> children = getChildren();
-        Board min = children.get(0);
-        for (Board child : children) {
-            if (child.getHeuristicAttackingQueens() < min.getHeuristicAttackingQueens()) {
-                min = child;
-            }
-        }
         return children.get(rand.nextInt(children.size()));
     }
 
