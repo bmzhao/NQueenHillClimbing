@@ -17,7 +17,6 @@ public class GeneticAlgorithm {
     public static void geneticAlgorithm(int initialPopulation, double proportionOfPopToMate, Double mutationProbability, int dimensionOfBoard) {
         Random rand = new Random();
         List<Board> population = new ArrayList<>();
-        int totalNumberOfNonAttackingPairs = 0;
 
         for (int i = 0; i < initialPopulation; i++) {
             Board toAdd = new Board(dimensionOfBoard);
@@ -36,6 +35,7 @@ public class GeneticAlgorithm {
              * of the heuristic function for the genetic algorithm
              */
             HashMap<Integer, Board> randomNumberToBoard = new HashMap<>();
+            int totalNumberOfNonAttackingPairs = 0;
 
             System.out.println(++iterationOfLoop);
             int currentRandomNumber = 0;
@@ -75,7 +75,10 @@ public class GeneticAlgorithm {
                     return;
                 }
                 System.out.println("Child 1: " + twins[0].getHeuristicAttackingQueens());
+                System.out.println(twins[0]);
                 System.out.println("Child 2: " + twins[1].getHeuristicAttackingQueens());
+                System.out.println(twins[1]);
+
                 children.add(twins[0]);
                 children.add(twins[1]);
             }

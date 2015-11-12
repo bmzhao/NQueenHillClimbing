@@ -30,7 +30,8 @@ public class MatingPair {
         /**
          * guarantee some proportion of parent is kept in child
          */
-        int cutOff = 1 + rand.nextInt(dimension - 2);
+//        int cutOff = 1 + rand.nextInt(dimension - 2);
+        int cutOff = rand.nextInt(dimension);
 
 
         ArrayList<Integer> guyFirstHalf = new ArrayList<>(guy.getBoardState().subList(0, cutOff));

@@ -45,6 +45,7 @@ public class Board implements Comparable<Board>{
      * @param boardState
      */
     public Board(ArrayList<Integer> boardState) {
+//        System.out.println(boardState);
         this.dimension = boardState.size();
         columnToQueens = new HashMap<>();
         underlying = new Queen[dimension][dimension];
@@ -57,6 +58,7 @@ public class Board implements Comparable<Board>{
             underlying[row][column] = toInsert;
             this.boardState.add(column);
         }
+//        System.out.println(toString());
     }
 
 
