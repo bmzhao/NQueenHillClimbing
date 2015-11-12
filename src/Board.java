@@ -56,7 +56,7 @@ public class Board implements Comparable<Board>{
             Queen toInsert = new Queen(new Position(row, column, dimension));
             columnToQueens.put(column, toInsert);
             underlying[row][column] = toInsert;
-            this.boardState.add(column);
+            this.boardState.add(row);
         }
 //        System.out.println(toString());
     }

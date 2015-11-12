@@ -4,10 +4,11 @@ import java.util.*;
  * Created by brianzhao on 11/11/15.
  */
 public class GeneticAlgorithm {
+    private static final Random rand = new Random();
 
     //gene algo
-    private static final int POPULATION_FOR_GENETIC_ALGORITHM = 10000;
-    private static final double PROPORTION_OF_POPULATION_TO_MATE = .1;
+    private static final int POPULATION_FOR_GENETIC_ALGORITHM = 100;
+    private static final double PROPORTION_OF_POPULATION_TO_MATE = 1;
     private static final double PROBABILITY_OF_MUTATION_OF_EACH_POSITION = 0.01; //for each position
 
     public static void main(String[] args) {
@@ -15,7 +16,7 @@ public class GeneticAlgorithm {
     }
 
     public static void geneticAlgorithm(int initialPopulation, double proportionOfPopToMate, Double mutationProbability, int dimensionOfBoard) {
-        Random rand = new Random();
+
         List<Board> population = new ArrayList<>();
 
         for (int i = 0; i < initialPopulation; i++) {
