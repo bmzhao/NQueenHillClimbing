@@ -107,7 +107,7 @@ public class Board {
     }
 
 
-    public Integer getEvaluationCost() {
+    public int getHeuristicAttackingQueens() {
         if (evaluationCost == null) {
             evaluationCost = calculateNumberOfAttackingPairsOfQueens();
         }
@@ -167,7 +167,7 @@ public class Board {
         ArrayList<Board> children = getChildren();
         Board min = children.get(0);
         for (Board child : children) {
-            if (child.getEvaluationCost() < min.getEvaluationCost()) {
+            if (child.getHeuristicAttackingQueens() < min.getHeuristicAttackingQueens()) {
                 min = child;
             }
         }
