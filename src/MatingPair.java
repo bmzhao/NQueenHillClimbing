@@ -6,8 +6,8 @@ import java.util.Random;
  */
 public class MatingPair {
     private static final Random rand = new Random();
-    Board guy;
-    Board girl;
+    private Board guy;
+    private Board girl;
 
     public MatingPair(Board girl, Board guy) {
         this.girl = girl;
