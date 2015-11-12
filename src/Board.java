@@ -154,7 +154,7 @@ public class Board implements Comparable<Board>{
         if (attackingQueens == null) {
             attackingQueens = calculateNumberOfAttackingPairsOfQueens();
         }
-        return ((dimension * dimension - 1) / 2) - attackingQueens;
+        return ((dimension * (dimension - 1)) / 2) - attackingQueens;
     }
 
     /**
