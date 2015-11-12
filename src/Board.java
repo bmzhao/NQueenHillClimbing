@@ -171,7 +171,17 @@ public class Board {
                 min = child;
             }
         }
-        return min;
+
+        //return a random board of the minimum group
+        ArrayList<Board> minChildren = new ArrayList<>(); //all boards with the same minimum heuristic
+        for (Board child : children) {
+            if (child.getHeuristicAttackingQueens() == min.getHeuristicAttackingQueens()) {
+                minChildren.add(child);
+            }
+        }
+        int randPosition = rand.nextInt(minChildren.size());
+
+        return minChildren.get(randPosition);
     }
 
 

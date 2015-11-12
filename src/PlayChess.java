@@ -16,11 +16,11 @@ public class PlayChess {
                 }
                 Board bestChild = board.getLowestHeuristicChild();
                 if (board.getHeuristicAttackingQueens() < bestChild.getHeuristicAttackingQueens()) {
+//                if (board.getHeuristicAttackingQueens() <= bestChild.getHeuristicAttackingQueens()) {
                     System.out.println("You did not get to the finished state");
                     break;
                 }
 //                else {
-//                    currentHeuristic = bestChild.getHeuristicAttackingQueens();
 //                    board = bestChild;
 //                }
 
