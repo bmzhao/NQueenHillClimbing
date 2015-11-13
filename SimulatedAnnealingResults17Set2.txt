@@ -1,0 +1,5043 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/bin/java -Didea.launcher.port=7540 "-Didea.launcher.bin.path=/Applications/IntelliJ IDEA 14.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/lib/tools.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Users/brianzhao/Documents/IntellijProjects/CS420Projects/CS420Project2/out/production/CS420Project2:/Applications/IntelliJ IDEA 14.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMain PlayChess
+Problem number: 0
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 1
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 2
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 3
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 4
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 5
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 6
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 7
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 8
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 9
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 10
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 11
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 12
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 13
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 14
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 15
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 16
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 17
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 18
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 19
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 20
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 21
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 22
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 23
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 24
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 25
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 26
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 27
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 28
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 29
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 30
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 31
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 32
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 33
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 34
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 35
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 36
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 37
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 38
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 39
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 40
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 41
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 42
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 43
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 44
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 45
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 46
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 47
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 48
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 49
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 50
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 51
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 52
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 53
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 54
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 55
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 56
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 57
+Correctly solved the problem with the following solution:
+ -  -  -  -  -  -  -  -  -  Q  -  -  -  -  -  -  -
+ -  -  Q  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  Q  -  -  -  -  -  -  -  -  -  -
+ -  Q  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  Q  -  -  -  -  -
+ -  -  -  -  -  -  -  -  Q  -  -  -  -  -  -  -  -
+ Q  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  Q  -
+ -  -  -  Q  -  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  Q  -  -
+ -  -  -  -  -  -  -  Q  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  Q  -  -  -  -  -  -
+ -  -  -  -  Q  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  Q  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  Q
+ -  -  -  -  -  Q  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  Q  -  -  -  -
+
+
+
+
+Problem number: 58
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 59
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 60
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 61
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 62
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 63
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 64
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 65
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 66
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 67
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 68
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 69
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 70
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 71
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 72
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 73
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 74
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 75
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 76
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 77
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 78
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 79
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 80
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 81
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 82
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 83
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 84
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 85
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 86
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 87
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 88
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 89
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 90
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 91
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 92
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 93
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 94
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 95
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 96
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 97
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 98
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 99
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 100
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 101
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 102
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 103
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 104
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 105
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 106
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 107
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 108
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 109
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 110
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 111
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 112
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 113
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 114
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 115
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 116
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 117
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 118
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 119
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 120
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 121
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 122
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 123
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 124
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 125
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 126
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 127
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 128
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 129
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 130
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 131
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 132
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 133
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 134
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 135
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 136
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 137
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 138
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 139
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 140
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 141
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 142
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 143
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 144
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 145
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 146
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 147
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 148
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 149
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 150
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 151
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 152
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 153
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 154
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 155
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 156
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 157
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 158
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 159
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 160
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 161
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 162
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 163
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 164
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 165
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 166
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 167
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 168
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 169
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 170
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 171
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 172
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 173
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 174
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 175
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 176
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 177
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 178
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 179
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 180
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 181
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 182
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 183
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 184
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 185
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 186
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 187
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 188
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 189
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 190
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 191
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 192
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 193
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 194
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 195
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 196
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 197
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 198
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 199
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 200
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 201
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 202
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 203
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 204
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 205
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 206
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 207
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 208
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 209
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 210
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 211
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 212
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 213
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 214
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 215
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 216
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 217
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 218
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 219
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 220
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 221
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 222
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 223
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 224
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 225
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 226
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 227
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 228
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 229
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 230
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 231
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 232
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 233
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 234
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 235
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 236
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 237
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 238
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 239
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 240
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 241
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 242
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 243
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 244
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 245
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 246
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 247
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 248
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 249
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 250
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 251
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 252
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 253
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 254
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 255
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 256
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 257
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 258
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 259
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 260
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 261
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 262
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 263
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 264
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 265
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 266
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 267
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 268
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 269
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 270
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 271
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 272
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 273
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 274
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 275
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 276
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 277
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 278
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 279
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 280
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 281
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 282
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 283
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 284
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 285
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 286
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 287
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 288
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 289
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 290
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 291
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 292
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 293
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 294
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 295
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 296
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 297
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 298
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 299
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 300
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 301
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 302
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 303
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 304
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 305
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 306
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 307
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 308
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 309
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 310
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 311
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 312
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 313
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 314
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 315
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 316
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 317
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 318
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 319
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 320
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 321
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 322
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 323
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 324
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 325
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 326
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 327
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 328
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 329
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 330
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 331
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 332
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 333
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 334
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 335
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 336
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 337
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 338
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 339
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 340
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 341
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 342
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 343
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 344
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 345
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 346
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 347
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 348
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 349
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 350
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 351
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 352
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 353
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 354
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 355
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 356
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 357
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 358
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 359
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 360
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 361
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 362
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 363
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 364
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 365
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 366
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 367
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 368
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 369
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 370
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 371
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 372
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 373
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 374
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 375
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 376
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 377
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 378
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 379
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 380
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 381
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 382
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 383
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 384
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 385
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 386
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 387
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 388
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 389
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 390
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 391
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 392
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 393
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 394
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 395
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 396
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 397
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 398
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 399
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 400
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 401
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 402
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 403
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 404
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 405
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 406
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 407
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 408
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 409
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 410
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 411
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 412
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 413
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 414
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 415
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 416
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 417
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 418
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 419
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 420
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 421
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 422
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 423
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 424
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 425
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 426
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 427
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 428
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 429
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 430
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 431
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 432
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 433
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 434
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 435
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 436
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 437
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 438
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 439
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 440
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 441
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 442
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 443
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 444
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 445
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 446
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 447
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 448
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 449
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 450
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 451
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 452
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 453
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 454
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 455
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 456
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 457
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 458
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 459
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 460
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 461
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 462
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 463
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 464
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 465
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 466
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 467
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 468
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 469
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 470
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 471
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 472
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 473
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 474
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 475
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 476
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 477
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 478
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 479
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 480
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 481
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 482
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 483
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 484
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 485
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 486
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 487
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 488
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 489
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 490
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 491
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 492
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 493
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 494
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 495
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 496
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 497
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 498
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 499
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 500
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 501
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 502
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 503
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 504
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 505
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 506
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 507
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 508
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 509
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 510
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 511
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 512
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 513
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 514
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 515
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 516
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 517
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 518
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 519
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 520
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 521
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 522
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 523
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 524
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 525
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 526
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 527
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 528
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 529
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 530
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 531
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 532
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 533
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 534
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 535
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 536
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 537
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 538
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 539
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 540
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 541
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 542
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 543
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 544
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 545
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 546
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 547
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 548
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 549
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 550
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 551
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 552
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 553
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 554
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 555
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 556
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 557
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 558
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 559
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 560
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 561
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 562
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 563
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 564
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 565
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 566
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 567
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 568
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 569
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 570
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 571
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 572
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 573
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 574
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 575
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 576
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 577
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 578
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 579
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 580
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 581
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 582
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 583
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 584
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 585
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 586
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 587
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 588
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 589
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 590
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 591
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 592
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 593
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 594
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 595
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 596
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 597
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 598
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 599
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 600
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 601
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 602
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 603
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 604
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 605
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 606
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 607
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 608
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 609
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 610
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 611
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 612
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 613
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 614
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 615
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 616
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 617
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 618
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 619
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 620
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 621
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 622
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 623
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 624
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 625
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 626
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 627
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 628
+Correctly solved the problem with the following solution:
+ -  -  -  -  -  -  -  -  -  -  -  -  Q  -  -  -  -
+ -  -  -  Q  -  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  Q  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  Q  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  Q  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  Q  -
+ -  -  -  -  -  Q  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  Q  -  -
+ -  -  -  -  -  -  -  -  -  -  -  Q  -  -  -  -  -
+ Q  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  Q  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  Q
+ -  -  Q  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  -  Q  -  -  -  -  -  -
+ -  Q  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  Q  -  -  -  -  -  -  -  -  -
+ -  -  -  -  -  -  -  -  -  Q  -  -  -  -  -  -  -
+
+
+
+
+Problem number: 629
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 630
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 631
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 632
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 633
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 634
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 635
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 636
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 637
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 638
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 639
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 640
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 641
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 642
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 643
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 644
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 645
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 646
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 647
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 648
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 649
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 650
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 651
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 652
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 653
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 654
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 655
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 656
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 657
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 658
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 659
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 660
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 661
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 662
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 663
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 664
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 665
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 666
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 667
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 668
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 669
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 670
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 671
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 672
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 673
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 674
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 675
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 676
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 677
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 678
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 679
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 680
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 681
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 682
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 683
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 684
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 685
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 686
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 687
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 688
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 689
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 690
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 691
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 692
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 693
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 694
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 695
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 696
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 697
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 698
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 699
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 700
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 701
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 702
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 703
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 704
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 705
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 706
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 707
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 708
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 709
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 710
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 711
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 712
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 713
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 714
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 715
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 716
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 717
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 718
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 719
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 720
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 721
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 722
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 723
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 724
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 725
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 726
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 727
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 728
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 729
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 730
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 731
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 732
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 733
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 734
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 735
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 736
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 737
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 738
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 739
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 740
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 741
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 742
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 743
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 744
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 745
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 746
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 747
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 748
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 749
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 750
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 751
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 752
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 753
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 754
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 755
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 756
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 757
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 758
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 759
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 760
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 761
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 762
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 763
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 764
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 765
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 766
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 767
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 768
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 769
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 770
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 771
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 772
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 773
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 774
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 775
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 776
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 777
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 778
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 779
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 780
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 781
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 782
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 783
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 784
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 785
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 786
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 787
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 788
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 789
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 790
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 791
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 792
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 793
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 794
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 795
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 796
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 797
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 798
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 799
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 800
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 801
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 802
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 803
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 804
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 805
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 806
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 807
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 808
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 809
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 810
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 811
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 812
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 813
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 814
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 815
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 816
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 817
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 818
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 819
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 820
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 821
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 822
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 823
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 824
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 825
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 826
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 827
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 828
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 829
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 830
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 831
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 832
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 833
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 834
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 835
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 836
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 837
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 838
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 839
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 840
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 841
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 842
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 843
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 844
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 845
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 846
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 847
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 848
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 849
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 850
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 851
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 852
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 853
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 854
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 855
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 856
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 857
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 858
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 859
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 860
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 861
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 862
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 863
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 864
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 865
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 866
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 867
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 868
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 869
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 870
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 871
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 872
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 873
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 874
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 875
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 876
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 877
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 878
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 879
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 880
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 881
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 882
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 883
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 884
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 885
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 886
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 887
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 888
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 889
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 890
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 891
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 892
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 893
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 894
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 895
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 896
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 897
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 898
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 899
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 900
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 901
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 902
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 903
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 904
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 905
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 906
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 907
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 908
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 909
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 910
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 911
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 912
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 913
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 914
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 915
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 916
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 917
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 918
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 919
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 920
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 921
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 922
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 923
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 924
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 925
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 926
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 927
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 928
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 929
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 930
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 931
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 932
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 933
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 934
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 935
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 936
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 937
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 938
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 939
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 940
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 941
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 942
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 943
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 944
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 945
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 946
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 947
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 948
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 949
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 950
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 951
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 952
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 953
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 954
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 955
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 956
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 957
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 958
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 959
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 960
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 961
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 962
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 963
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 964
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 965
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 966
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 967
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 968
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 969
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 970
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 971
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 972
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 973
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 974
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 975
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 976
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 977
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 978
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 979
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 980
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 981
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 982
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 983
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 984
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 985
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 986
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 987
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 988
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 989
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 990
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 991
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 992
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 993
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 994
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 995
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 996
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 997
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 998
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Problem number: 999
+Failed to find the solution of the problem in 200 iterations of simulated annealing
+
+
+
+Correctly solved: 2 out of 1000
+Solution percentage is: 0.2%
+The average number of steps taken was: 199.949
+Average seconds to solve or fail to solve each problem: 0.1438
+
+Process finished with exit code 0

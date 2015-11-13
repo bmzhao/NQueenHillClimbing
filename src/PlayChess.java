@@ -4,20 +4,38 @@ import java.util.*;
  * Created by brianzhao on 11/11/15.
  */
 public class PlayChess {
-    private static final int NUM_TEST_CASES = 1000;
+    private static final int NUM_TEST_CASES = 100;
     private static final int LIMIT_FOR_SIMULATED_ANNEALING = 200;
-
-
-
-
     private static final Random rand = new Random();
 
     public static void main(String[] args) {
 
 //        simulatedAnnealing(17,LIMIT_FOR_SIMULATED_ANNEALING);
-//        steepestHillClimbingNoSideWaysMove(17);
-//        steepestHillClimbingWithSidewaysMove(8);
-//        steepestHillClimbingWithSidewaysMove(2);
+
+        System.out.println("Steepest Hill Climbing with No Sideways Move 100 times");
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        steepestHillClimbingNoSideWaysMove(17);
+
+        System.out.println("Steepest Hill Climbing with Sideways Move Allowed 100 times");
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        steepestHillClimbingWithSidewaysMove(17);
+
+        System.out.println("Genetic Algorithm 10 times with 1000 generation constraint: ");
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        GeneticAlgorithm.runGenetic();
+
 
     }
 
@@ -130,11 +148,11 @@ public class PlayChess {
          k = the steepness of the curve.
 
          */
-//        double L = 300;
-////        double k = 0.02;
-//        double k = 3;
-//        return L / (1 + Math.exp(k * x));
-        return 300 * Math.pow(0.5, x);
+        double L = 300;
+//        double k = 0.02;
+        double k = 3;
+        return L / (1 + Math.exp(k * x));
+//        return 300 * Math.pow(0.5, x);
     }
 
     public static void simulatedAnnealing(int dimensionOfBoard, int limitingNumberOfSteps) {

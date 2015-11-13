@@ -8,11 +8,24 @@ public class GeneticAlgorithm {
 
     //gene algo
     private static final int POPULATION_FOR_GENETIC_ALGORITHM = 100;
-    private static final double PROPORTION_OF_POPULATION_TO_MATE = 1;
-    private static final double PROBABILITY_OF_MUTATION_OF_EACH_POSITION = 0.01; //for each position
+    private static final double PROPORTION_OF_POPULATION_TO_MATE = 0.9;
+    private static final double PROBABILITY_OF_MUTATION_OF_EACH_POSITION = 0.05; //for each position
 
-    public static void main(String[] args) {
-        geneticAlgorithm(POPULATION_FOR_GENETIC_ALGORITHM, PROPORTION_OF_POPULATION_TO_MATE, PROBABILITY_OF_MUTATION_OF_EACH_POSITION, 17);
+    public static void runGenetic(){
+        for (int i = 0; i < 10; i++) {
+            try {
+                geneticAlgorithm(POPULATION_FOR_GENETIC_ALGORITHM, PROPORTION_OF_POPULATION_TO_MATE, PROBABILITY_OF_MUTATION_OF_EACH_POSITION, 17);
+            } catch (RuntimeException e) {
+                System.out.println("Failed to produce result after 2000 generations");
+            }
+            System.out.println("Finished with genetic algorithm iteration");
+            try {
+                Thread.sleep(3000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+
+        }
     }
 
     public static void geneticAlgorithm(int initialPopulation, double proportionOfPopToMate, Double mutationProbability, int dimensionOfBoard) {
@@ -37,6 +50,9 @@ public class GeneticAlgorithm {
              */
             HashMap<Integer, Board> randomNumberToBoard = new HashMap<>();
             int totalNumberOfNonAttackingPairs = 0;
+            if (iterationOfLoop == 1000) {
+                throw new RuntimeException("Failed to converge");
+            }
 
             System.out.println(++iterationOfLoop);
             int currentRandomNumber = 0;
